@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @currmi01
+- 👀 I’m currently using Github to collaborate on research code, as a means of learning python (in addition to R). Both languages are powerful tools for the research community to manipulate and analyze data.
